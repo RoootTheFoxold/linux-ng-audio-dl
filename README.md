@@ -3,7 +3,7 @@ Newgrounds Audio-Downloader [Bash Script]
 
 Dieses Tool lässt Linux-User nicht herunterladbare Songs von https://newgrounds.com/audio herunterladen.
 
-Eine Online-Version dieses Tools finden Sie hier: https://rootrobo.ddns.net/newgrounds/
+Eine Online-Version dieses Tools finden Sie hier: https://rootrobo.ddns.net/newgrounds/ (Funktioniert auch auf Android, Windows etc.)
 
 Dieses Tool verwendendet diese API: http://api.newgrounds.app/
 Dies ist Hauptsächlich nur ein Wrapper für diese API.
