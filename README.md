@@ -11,3 +11,16 @@ Dies ist Hauptsächlich nur ein Wrapper für diese API.
 Ich übernehme KEINE Haftung für Straftaten, Urheberrechtsverletzungen etc., die mit diesem Tool begangen worden sind!
 Mit der Nutzung dieses Tools (Web- und Scriptversion) bestätigen Sie, dass sie selbst die Haftung für illegale Dinge
 übernehmen müssen, die Sie mit diesem Tool begangen haben! Ich übernehme KEINERLEI Haftung für dieses Tool!
+
+Installation:
+
+Dieses Programm benötigt keine Installation. Sie müssen es lediglich ausführbar machen:
+
+1. Herunterladen
+git clone https://github.com/RootRobo/linux-ng-audio-dl.git
+2. In das Verzeichnis wechseln
+cd linux-ng-audio-dl
+3. Ausführbar machen
+chmod +x ng-audio-downloader.sh
+4. Starten
+./ng-audio-downloader.sh
