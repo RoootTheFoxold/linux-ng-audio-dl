@@ -18,9 +18,12 @@ Dieses Programm benötigt keine Installation. Sie müssen es lediglich ausführb
 
 1. Herunterladen
 git clone https://github.com/RootRobo/linux-ng-audio-dl.git
+
 2. In das Verzeichnis wechseln
 cd linux-ng-audio-dl
+
 3. Ausführbar machen
 chmod +x ng-audio-downloader.sh
+
 4. Starten
 ./ng-audio-downloader.sh
