@@ -27,4 +27,3 @@ chmod +x ng-audio-downloader.sh
 
 4. Starten
 ./ng-audio-downloader.sh
-test
