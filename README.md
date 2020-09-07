@@ -7,6 +7,7 @@ Eine Online-Version dieses Tools finden Sie hier: https://rootrobo.ddns.net/newg
 
 Dieses Tool verwendendet diese API: http://api.newgrounds.app/
 Dies ist Hauptsächlich nur ein Wrapper für diese API.
+# Da diese API tot ist, funktioniert dieses Script nicht mehr!
 
 Ich übernehme KEINERLEI Haftung für dieses Tool!
 
