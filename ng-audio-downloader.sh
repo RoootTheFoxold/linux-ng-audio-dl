@@ -30,7 +30,7 @@ mkdir temp 2> /dev/null
 dir=`pwd`
 cd temp
 echo -e "${WHITE}Fetching song information..."
-wget -O song.temp http://api.newgrounds.app/details.php?url=https://www.newgrounds.com/audio/listen/$songid 2> /dev/null
+wget -O song.temp https://rootrobo.ddns.net/newgrounds-api/details.php?url=https://www.newgrounds.com/audio/listen/$songid 2> /dev/null
 echo -e "${LIGHTGREEN}Done!"
 echo -e "${WHITE}Fetching download link... "
 sleep 0.1
