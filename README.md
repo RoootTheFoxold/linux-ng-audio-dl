@@ -5,10 +5,7 @@ Dieses Tool lässt Linux-User nicht herunterladbare Songs von https://newgrounds
 
 Eine Online-Version dieses Tools finden Sie hier: https://rootrobo.ddns.net/newgrounds/ (Funktioniert auch auf Android, Windows etc.)
 
-Dieses Tool verwendendet diese API: http://api.newgrounds.app/
-Dies ist Hauptsächlich nur ein Wrapper für diese API.
-
-Ich übernehme KEINERLEI Haftung für dieses Tool!
+Dieses Tool verwendendet diese API: https://github.com/erfg12/newgrounds-scraper
 
 Installation:
 
