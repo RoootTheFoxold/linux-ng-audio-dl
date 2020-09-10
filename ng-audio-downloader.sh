@@ -51,7 +51,7 @@ cd $dir
 rm -r temp 2> /dev/null
 echo -e "${LIGHTGREEN}Temporary files have been deleted!"
 echo -e "${WHITE}Downloading song..."
-wget $dl_link
+wget --noc-check-certificate $dl_link
 sleep 2
 echo -e "${LIGHTGREEN}Success! Song downloaded successfully!"
 echo -e "${GREEN}Exiting... Goodbye!"
