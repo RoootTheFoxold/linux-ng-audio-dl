@@ -13,18 +13,14 @@ This tool uses the following api: https://github.com/erfg12/newgrounds-scraper
 
 This program does _not require any installation_. All you have to do is _make it executable_, with following this steps:
 
-1. Download
-
+1. Download : 
 `git clone https://github.com/RootRobo/linux-ng-audio-dl.git`
 
-2. Switch the directory
-
+2. Switch the directory : 
 `cd linux-ng-audio-dl`
 
-3. Make it executable
-
+3. Make it executable : 
 `chmod +x ng-audio-downloader.sh`
 
-4. Fire it!
-
+4. Fire it! : 
 `./ng-audio-downloader.sh`
