@@ -8,6 +8,8 @@ An online version of this tool can be found on this page "https://rootrobo.ddns.
 
 This tool uses the following api: https://github.com/erfg12/newgrounds-scraper
 
+**This version is no longer maintained! For an updated version, please look [at the HTML version](https://github.com/RootRobo/newgrounds-audio-downloader)**
+*I will still be accepting pull requests!*
 
 ### How to install it:
 
@@ -22,5 +24,5 @@ This program does _not require any installation_. All you have to do is _make it
 3. Make it executable : 
 `chmod +x ng-audio-downloader.sh`
 
-4. Fire it! : 
+4. Run it! : 
 `./ng-audio-downloader.sh`
