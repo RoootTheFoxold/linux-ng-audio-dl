@@ -1,24 +1,27 @@
 # linux-ng-audio-dl
 Newgrounds Audio-Downloader [Bash Script]
 
-Dieses Tool lässt Linux-User nicht herunterladbare Songs von https://newgrounds.com/audio herunterladen.
 
-Eine Online-Version dieses Tools finden Sie hier: https://rootrobo.ddns.net/newgrounds/ (Funktioniert auch auf Android, Windows etc.)
+This tool lets Linux users download non-downloadable songs from "https://newgrounds.com/audio".
 
-Dieses Tool verwendendet diese API: https://github.com/erfg12/newgrounds-scraper
 
-Installation:
+An online version of this tool can be found on this page "https://rootrobo.ddns.net/newgrounds/" (also works on Android, Windows etc.)
 
-Dieses Programm benötigt keine Installation. Sie müssen es lediglich ausführbar machen:
+This tool uses the following api: https://github.com/erfg12/newgrounds-scraper
 
-1. Herunterladen
+How to install it:
+
+
+This program does not require any installation. All you have to do is make it executable, with following this steps:
+
+1. Download
 git clone https://github.com/RootRobo/linux-ng-audio-dl.git
 
-2. In das Verzeichnis wechseln
+2. Switch the directory
 cd linux-ng-audio-dl
 
-3. Ausführbar machen
+3. Make it executable
 chmod +x ng-audio-downloader.sh
 
-4. Starten
+4. Fire it!
 ./ng-audio-downloader.sh
