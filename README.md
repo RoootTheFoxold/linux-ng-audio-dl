@@ -15,13 +15,13 @@ How to install it:
 This program does not require any installation. All you have to do is make it executable, with following this steps:
 
 1. Download
-git clone https://github.com/RootRobo/linux-ng-audio-dl.git
+`git clone https://github.com/RootRobo/linux-ng-audio-dl.git`
 
 2. Switch the directory
-cd linux-ng-audio-dl
+`cd linux-ng-audio-dl`
 
 3. Make it executable
-chmod +x ng-audio-downloader.sh
+`chmod +x ng-audio-downloader.sh`
 
 4. Fire it!
-./ng-audio-downloader.sh
+`./ng-audio-downloader.sh`
